@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm BlackoutDevs</h1>
+<!--Type Animation-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+BlackoutDevs!;" />
+</h1>
+
 <h3 align="center">A Passionate Software Developer</h3>
 
-<!--Snake-->
 <!--Snake-->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
