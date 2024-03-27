@@ -2,11 +2,14 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <!--Snake-->
+<!--Snake-->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-  <img  src="./grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
+<!--Graph-->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackouto&label=Profile%20views&color=0e75b6&style=flat" alt="blackouto" /> </p>
 
