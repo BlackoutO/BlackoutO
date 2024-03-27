@@ -6,10 +6,16 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <!--Snake-->
+<hr/>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/blackoutO/blackouto/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
+
+<hr/>
 <br>
 <!--Graph-->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
