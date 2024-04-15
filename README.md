@@ -22,7 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackouto&label=Profile%20views&color=0e75b6&style=flat" alt="blackouto" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **React Native, Typescript**
 
