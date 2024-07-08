@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **React Native, Typescript**
+- 🌱 I’m currently learning **React Native, TypeScript**
 
 - 📫 How to reach me **blackoutdevs@gmail.com**
 
