@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **Shh...**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **blackoutdevs@gmail.com**
 
