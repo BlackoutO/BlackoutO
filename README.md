@@ -1,60 +1,94 @@
-<!--Type Animation-->
+<!-- Animated Header -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+BlackoutDevs!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=5000&lines=Hey+there!+👋;+I'm+BlackoutDevs.;+Software+Developer+|+Cybersecurity+Engineer." />
 </h1>
 
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">Designing secure, scalable, and elegant systems through code.</h3>
 
-<!--Snake-->
-<hr/>
+<!--
+### 🧭 About
+
+- 💡 Passionate about **building systems that are both efficient and secure**  
+- 🧩 Focused on **software architecture, backend engineering, and applied cybersecurity**  
+- ⚙️ Strong believer in **clarity, precision, and resilience** in development  
+- 📫 Reach me at **BlackoutDevs@gmail.com**
+
+---
+-->
+
+<!--### ⚙️ Tech Stack-->
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  Hidden temporarily. Work in progress.
-<!--   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/blackoutO/blackouto/output/github-contribution-grid-snake.svg" /> -->
-  
-  <br/><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,pytest" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,prisma" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,bash" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,figma" />
+
 </div>
 
-<hr/>
+---
+
+<!--
+### 📊 GitHub Overview
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlackoutO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackoutO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <br>
-<!--Graph-->
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackouto&label=Profile%20views&color=0e75b6&style=flat" alt="blackouto" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackoutO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-- 🔭 I’m currently working on **Shh...**
+---
+-->
 
-- 🌱 I’m currently learning **Data Science**
+<!--### 🌐 Connect-->
 
-- 📫 How to reach me **blackoutdevs@gmail.com**
-
-<div align="left"> 
-  <a href="mailto:blackoutdevs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="center">
+  <a href="mailto:BlackoutDevs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BlackoutO" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <!-- <a href="https://blackouto.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a> -->
 </div>
 
-<hr>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwindcss" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+<!--
+### 🐍 Contributions
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackouto&show_icons=true&locale=en&layout=compact" alt="blackouto" /></p>
+  <img src="https://raw.githubusercontent.com/BlackoutO/BlackoutO/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
+---
+-->
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlackoutO&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>“Secure by design. Scalable by intent.”</i>
+</p>
