@@ -72,8 +72,6 @@
   </a> -->
 </div>
 
----
-
 <!--
 ### 🐍 Contributions
 
@@ -92,3 +90,8 @@
 <p align="center">
   <i>“Secure by design. Scalable by intent.”</i>
 </p>
+
+<p align="center">
+  <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</p>
+
