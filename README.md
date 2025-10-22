@@ -3,7 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=5000&lines=Hey+there!+👋;+I'm+BlackoutDevs.;+Software+Developer+|+Cybersecurity+Engineer." />
 </h1>
 
-<h3 align="center">Designing secure, scalable, and elegant systems through code.</h3>
+<p align="center">
+  <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</p>
+
+---
+
+<!-- <h3 align="center">Designing secure, scalable, and elegant systems through code.</h3> -->
 
 <!--
 ### 🧭 About
@@ -72,16 +78,12 @@
   </a> -->
 </div>
 
-<!--
-### 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BlackoutO/BlackoutO/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/BlackoutO/BlackoutO/main/grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
--->
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlackoutO&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -91,7 +93,5 @@
   <i>“Secure by design. Scalable by intent.”</i>
 </p>
 
-<p align="center">
-  <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
+
 
