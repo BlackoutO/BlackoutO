@@ -7,7 +7,9 @@
   <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackoutO/BlackoutO/main/assets/divider-breathing.svg" width="80%" alt="animated divider" />
+</p>
 
 <!-- <h3 align="center">Designing secure, scalable, and elegant systems through code.</h3> -->
 
@@ -42,7 +44,10 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackoutO/BlackoutO/main/assets/divider-breathing.svg" width="80%" alt="animated divider" />
+</p>
+
 
 <!--
 ### 📊 GitHub Overview
