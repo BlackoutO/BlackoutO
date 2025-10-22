@@ -92,7 +92,3 @@
 <p align="center">
   <i>“Secure by design. Scalable by intent.”</i>
 </p>
-
-<hr style="height: 2px; border: none; background: linear-gradient(90deg, #00ffff, #0077ff, #00ffff); box-shadow: 0 0 10px #00ffff;" />
-
-
